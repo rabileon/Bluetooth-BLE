@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Bluetooth_DEMO.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:Bluetooth_DEMO.ViewModels"
+    mc:Ignorable="d">
+
+    <ContentPage.BindingContext>
+        <vm:DeviceViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Button Clicked="searchDevice" Text="Search" />
+            </StackLayout>
+            <StackLayout>
+                <Button Clicked="getServices" Text="Get Services" />
+            </StackLayout>
+            <StackLayout>
+                <Button
+                    x:Name="btnKnowConnect"
+                    Clicked="btnKnowConnect_Clicked"
+                    Text="Connect know device" />
+            </StackLayout>
+            <StackLayout>
+                <Button
+                    x:Name="btnGetcharacters"
+                    Clicked="btnGetcharacters_Clicked"
+                    Text="Get characteristics" />
+            </StackLayout>
+            <StackLayout>
+                <Button
+                    x:Name="btnDescriptors"
+                    Clicked="btnDescriptors_Clicked"
+                    Text="Get Descriptors" />
+            </StackLayout>
+            <StackLayout>
+                <Button
+                    x:Name="btnGetRW"
+                    Clicked="btnGetRW_Clicked"
+                    Text="Read/Write" />
+            </StackLayout>
+            <StackLayout>
+                <Button
+                    x:Name="btnDescRW"
+                    Clicked="btnDescRW_Clicked"
+                    Text="Read Write descriptor" />
+            </StackLayout>
+
+            <StackLayout>
+                <Button
+                    x:Name="btnGetDevices"
+                    Clicked="btnGetDevices_Clicked"
+                    Text="GET DEVICES" />
+            </StackLayout>
+            <ListView
+                x:Name="DevicesList"
+                CachingStrategy="RecycleElement"
+                IsPullToRefreshEnabled="true"
+                ItemSelected="DevicesList_OnItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding NativeDevice.Name}" />
+                                <Label Text="{Binding NativeDevice.Address}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xDvEH9sFYMRxsGN5VQby1wK8vsHP269fK0eLL3fFnf0bse8poITIDW0hmFMtVT74c2RbEqrxS17Y+YcBg1Xag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RABI\\source\\repos\\Bluetooth_DEMO\\Bluetooth_DEMO\\Bluetooth_DEMO\\Bluetooth_DEMO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RABI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\mvvmcross\\7.0.0\\mvvmcross.7.0.0.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\mvvmcross.plugin.ble\\2.1.1\\mvvmcross.plugin.ble.2.1.1.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\plugin.ble\\2.1.1\\plugin.ble.2.1.1.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\RABI\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

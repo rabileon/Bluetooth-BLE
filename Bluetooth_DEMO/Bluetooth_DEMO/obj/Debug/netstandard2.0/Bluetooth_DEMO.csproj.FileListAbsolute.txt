@@ -1,0 +1,14 @@
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\bin\Debug\netstandard2.0\Bluetooth_DEMO.deps.json
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\bin\Debug\netstandard2.0\Bluetooth_DEMO.dll
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\bin\Debug\netstandard2.0\ref\Bluetooth_DEMO.dll
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\bin\Debug\netstandard2.0\Bluetooth_DEMO.pdb
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.AssemblyInfoInputs.cache
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.AssemblyInfo.cs
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.dll
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\ref\Bluetooth_DEMO.dll
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.pdb
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.csprojAssemblyReference.cache
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\Bluetooth_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\RABI\source\repos\Bluetooth_DEMO\Bluetooth_DEMO\Bluetooth_DEMO\obj\Debug\netstandard2.0\XamlC.stamp
